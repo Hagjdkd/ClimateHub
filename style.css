@@ -843,6 +843,16 @@ input[type="range"]::-moz-range-thumb {
     grid-template-columns: 1fr;
   }
 
+  /* Stack contact form and social panel on small screens */
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-form,
+  .contact-side {
+    padding: 1.2rem 1.2rem;
+  }
+
   .section {
     padding-inline: 1.1rem;
   }
