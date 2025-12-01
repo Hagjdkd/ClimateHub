@@ -858,6 +858,41 @@ input[type="range"]::-moz-range-thumb {
     align-items: stretch;
   }
 
+  .globe {
+    width: 220px;
+    height: 220px;
+  }
+
+  .card-floating {
+    min-width: 130px;
+    padding: 0.5rem 0.6rem;
+    font-size: 0.68rem;
+  }
+
+  .card-temp {
+    top: 20%;
+  }
+
+  .card-co2 {
+    top: 66%;
+    left: 28%;
+  }
+
+  .card-sea {
+    top: 60%;
+    left: 72%;
+  }
+
+  .data-row {
+    font-size: 0.8rem;
+    grid-template-columns: 1.7fr 1.3fr;
+  }
+
+  .badge {
+    display: inline-block;
+    margin-top: 0.15rem;
+  }
+
   .info-card,
   .action-card,
   .data-panel,
