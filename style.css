@@ -782,10 +782,7 @@ input[type="range"]::-moz-range-thumb {
   }
 
   .card-floating {
-    position: static;
-    font-size: 0.78rem;
-    margin: 0.4rem auto 0;
-    max-width: 260px;
+    font-size: 0.72rem;
   }
 
   .three-cols {
